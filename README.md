@@ -21,3 +21,5 @@ Cadastro 4 – Teresa Silveira; 1900.14; false; Brasileira.
 Cadastro 5 – Ataíde Rocha ; 1340.27; false; Brasileiro.
 
 > Imprima o nome do interessado e se tem ou não direito ao benefício.
+<hr>
+<img width="100%" src="ass.svg"></img> 
